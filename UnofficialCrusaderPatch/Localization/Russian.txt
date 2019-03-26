@@ -9,17 +9,17 @@ ui_AIC
 
 ui_aicExport
 {
-	"Export"
+	"Экспорт"
 }
 
 ui_aicExport_success
 {
-	"Exported successfully."
+	"Экспортирование успешно."
 }
 
 ui_aicHint
 {
-	"Exports the .aic-file from the installer into the crusader folder."
+	"Экспортирует .aic-файл из установщика в папку Stronghold Crusader."
 }
 
 
