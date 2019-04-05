@@ -9,17 +9,17 @@ ui_AIC
 
 ui_aicExport
 {
-	"Export"
+	"Экспорт"
 }
 
 ui_aicExport_success
 {
-	"Exported successfully."
+	"Экспортирование успешно."
 }
 
 ui_aicHint
 {
-	"Exports the .aic-file from the installer into the crusader folder."
+	"Экспортирует .aic-файл из установщика в папку Stronghold Crusader."
 }
 
 
@@ -669,7 +669,7 @@ o_healer_descr
 
 o_xtreme
 {
-	"Умраны значки магии в Stronghold Crusader Extreme"
+	"Убраны значки магии в Stronghold Crusader Extreme"
 }
 
 o_xtreme_descr
@@ -717,7 +717,7 @@ ai_access
 ai_access_descr
 {
 	"Предотвращает AI от разрушения зданий без доступа. Это должно &
-остановить AI от непрерывного разрушения и восстановления зданий, где нет
+остановить AI от непрерывного разрушения и восстановления зданий , где нет
 доступа к ним."
 }
 
