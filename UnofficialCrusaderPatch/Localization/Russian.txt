@@ -30,7 +30,7 @@ o_override_identity_menu_descr
 
 o_default_multiplayer_speed
 {
-    "Set default multiplayer speed."
+    "Установить скорость мультиплеера по умолчанию."
 }
 
 o_default_multiplayer_speed_descr
@@ -40,12 +40,12 @@ o_default_multiplayer_speed_descr
 
 u_ballistatunneler
 {
-    "Fire ballistas shoot tunnelers"
+    "Огненные баллисты стреляют по туннелям"
 }
 
 u_ballistatunneler_descr
 {
-    "Fire ballistas shoot automatically at tunnelers with this setting."
+    "Баллисты будут автоматически стрелять по туннелям с этой установкой."
 }
 
 // ======================
