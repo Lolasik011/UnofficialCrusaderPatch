@@ -40,12 +40,12 @@ o_default_multiplayer_speed_descr
 
 u_ballistafix
 {
-    "Fire ballistas shoot monks and tunnelers"
+    "Огненные баллисты стреляют в монахов и туннельщиков"
 }
 
 u_ballistafix_descr
 {
-    "Fire ballistas automatically shoot at monks and tunnelers."
+    "Огненные баллисты автоматически стреляют в монахов и туннельщиков."
 }
 
 // ======================
