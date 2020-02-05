@@ -1,36 +1,36 @@
 ﻿o_armory_marketplace_weapon_order_fix
 {
-	"Fix armory/marketplace weapon orders to match"
+	"Исправить оружейный склад/рыночное оружие, чтобы соответствовать"
 }
 
 o_armory_marketplace_weapon_order_fix_descr
 {
-	"Reorders Weapon icons in Armory and Marketplace to have the same order. Also moves Leather Armor between Mace and Crossbow, and moves Metal Armor between Polearm and Sword for easier access while in Marketplace scrolling through items."
+	"Заказывает иконки оружия в Оружейной и на Рынке, чтобы иметь тот же самый заказ. Также перемещает кожаную броню между булавой и арбалетом, а металлическую броню - между пулеметом и мечом для более легкого доступа во время прокрутки предметов на Рынке."
 }
 
 ai_fix_laddermen_with_enclosed_keep
 {
-    "Fix AI not using laddermen if they are enclosed"
+    "Исправить ИИ, не использующий лестниц, если они прилагаются."
 }
 
 ai_fix_laddermen_with_enclosed_keep_descr
 {
-    "AI (notably Snake) no longer stops using Laddermen with their sieging units if their keep is enclosed."
+    "AI (в частности, Змея) больше не прекращает использование лестниц с осаждающими устройствами, если их содержание находится в замкнутом пространстве."
 }
 
 o_override_identity_menu
 {
-    "Override the Set-up Identity menu adding new features"
+    "Переопределить меню "Настройка идентификации", добавляя новые функции."
 }
 
 o_override_identity_menu_descr
 {
-    "Adds Ranged and Melee unit selection to Set-up Identity menu. ONLY FOR NORMAL GAME MODE!"
+    "В меню "Настройка идентификации" добавляется "Диапазон" и "Выбор единиц измерения". ТОЛЬКО ДЛЯ ОБЫЧНОГО ИГРОВОГО РЕЖИМА!"
 }
 
 o_default_multiplayer_speed
 {
-    "Set default multiplayer speed."
+    "Установить скорость мультиплеера по умолчанию."
 }
 
 o_default_multiplayer_speed_descr
@@ -40,12 +40,12 @@ o_default_multiplayer_speed_descr
 
 u_fireballistafix
 {
-    "Fire ballistas shoot monks and tunnelers"
+    "Огненные баллисты стреляют в монахов и туннельщиков"
 }
 
 u_fireballistafix_descr
 {
-    "Fire ballistas automatically shoot at monks and tunnelers."
+    "Огонь баллисты автоматически стреляют по монахам и тоннелям."
 }
 
 // ======================
