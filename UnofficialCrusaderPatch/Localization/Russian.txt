@@ -4,12 +4,12 @@
 
 o_fix_moat_digging_unit_disappearing
 {
-"Fix moat digging units disappear bug"
+"Фиксит исчезание юнитов во время копания рва"
 }
 
 o_fix_moat_digging_unit_disappearing_descr
 {
-"Fixes the bug where moat diggers would disappear randomly while digging. Note that they can still disappear if you order them to move while digging and they happen to stand on an unwalkable tile!"
+"Исправлена ошибка, при которой копатели рва исчезали случайно во время раскопок. Обратите внимание, что они все равно могут исчезнуть, если вы прикажете им двигаться во время раскопок, и они случайно встанут на непешеходную плитку!"
 }
 
 // ======================
