@@ -3,166 +3,166 @@
 // ======================
 o_change_siege_engine_spawn_position_catapult
 {
-"Center siege engine spawn position"
+"Осадные Орудия появляются по центру"
 }
 
 o_change_siege_engine_spawn_position_catapult_descr
 {
-"Siege engines are now centered after they are finished building instead of spawning at the top corner of the tent."
+"После завершения строительства осадные орудия теперь центрируются, а не появляются в верхнем углу палатки."
 }
 
 o_stop_player_keep_rotation
 {
-"Rotate player keeps"
+"Вращение Крепости игрока"
 }
 
 o_stop_player_keep_rotation_descr
 {
-"Player keeps now get rotated the same way, that AI keeps rotate on a map, facing with their campfire outwards towards the map edge."
+"Крепость Игрока продолжает вращаться так же, как ИИ продолжает вращаться на карте, стоя лицом к краю карты."
 }
 
 o_restore_arabian_engineer_speech
 {
-"Restore engineer arabian speech"
+"Восстановление арабской речи инженера"
 }
 
 o_restore_arabian_engineer_speech_descr
 {
-"Allows engineers to speak the originally recorded arabian voicelines when the player uses the Arabian lord.
+"Позволяет инженерам говорить на изначально записанных аравийских голосовых дорожках, когда игрок использует арабского лорда.
 
-There is not much variation of these voicelines, so it can get annoying after a while."
+Голосовые линии не сильно отличаются друг от друга, поэтому через некоторое время они могут стать раздражающими."
 }
 
 u_fix_lord_animation_stuck_movement
 {
-"Fix Lord animation freeze"
+"Исправляет анимацию Лорда (Фризы)"
 }
 
 u_fix_lord_animation_stuck_movement_descr
 {
-"Fixes Lord animation freezes after the Lord stops moving and after the Lord destroys a building."
+"Исправляет анимацию Лорда после того как он перестает двигатся ,и после того как Лорд уничтожает здание."
 }
 
 o_fix_small_wall_placement_count
 {
-"Fix small wall placement count preview"
+"Исправляет маленькие стены в режиме предварительного просмотра."
 }
 
 o_fix_small_wall_placement_count_descr
 {
-"Fixes the bug where the small wall placement preview only allowed the player to use half of their stone."
+"Исправляет ошибку, при которой при предварительном просмотре размещения маленькой стены игрок мог использовать только половину своего камня."
 }
 
 fix_apple_orchard_build_size
 {
-"Shrink apple orchard's build size"
+"Размер здания Яблочный Сад"
 }
 
 fix_apple_orchard_build_size_descr
 {
-"Changes the apple orchard's build size to the size it occupies after the farm is placed down. This saves some space when building the farms and increases the rate with which the AI is able to put these farms down."
+"Изменяет размер постройки яблоневого сада на размер, который он занимает после строительства фермы. Это экономит место при строительстве ферм и увеличивает скорость, с которой ИИ может строить эти фермы."
 }
 
 u_fix_applefarm_blocking
 {
-"Fix apple farm blocking"
+"Исправляет блокировку яблочной фермы"
 }
 
 u_fix_applefarm_blocking_descr
 {
-"Apple farmers can no longer be blocked by placing buildings at the top left side of the farm."
+"Яблоневые фермеры больше нельзя блокировать, размещая здания на верхней левой стороне фермы."
 }
 
 o_allow_overbuilding
 {
-"Allow overbuilding workers and units"
+"Разрешить чрезмерный наем строителей и юнитов"
 }
 
 o_allow_overbuilding_descr
 {
-"Allows the player to overbuild workers with buildings, while allowing to overbuild units with walls and towers making them pop at the top."
+"Позволяет игроку черезмерный наем рабочих со зданиями, в то же время позволяя черезмерно нанимать единицы со стенами и башнями, заставляя их привысить максимальный предел популяции."
 }
 
 o_increase_path_update_tick_rate
 {
-"Increase the tick rate of path update by 4 times."
+"Увеличивает скорость обновления пути в 4 раза."
 }
 
 o_increase_path_update_tick_rate_descr
 {
-"In vanilla, it took 200 game ticks to update pathing which resulted in units not being able to move into the castle after destroying a gate or tower.
+"В Оригинале потребовалось 200 игровых тиков для ИИ, чтобы обновить путь, в результате чего юниты не могли перемещаться в замок после разрушения ворот или башни.
 
-This change increases this tick rate by 4 times by lowering this required tick value to 50, allowing the units to 'realize' more quickly that a new path is available."
+Это изменение увеличивает скорость передачи тиков в 4 раза, снижая требуемое значение тика до 50, что позволяет юнитам ИИ "понимать" быстрее, что новый путь доступен."
 }
 
 o_fix_ladderclimb
 {
-"Fix ladder climb bug"
+"Исправить ошибку подъёма по лестнице"
 }
 
 o_fix_ladderclimb_descr
 {
-"Units no longer forget their destination after climbing, and they will no longer start climbing back down or up immediately afterwards they just climbed."
+"Отряды больше не забывают о своем предназначении после восхождения, и они больше не начнут подниматься или спускаться вниз сразу же после того, как они только что поднялись."
 }
 
 u_spearmen_run
 {
-"Spearmen run by default instead of walking"
+"Копейщики по умолчанию бегут вместо ходьбы"
 }
 
 u_spearmen_run_descr
 {
-"Makes spearmen run by default instead of the slow walking."
+"Вместо медленной ходьбы копейщики бегут по умолчанию."
 }
 
 u_tanner_fix
 {
-"Fix tanners getting all the same cow"
+"Исправляет Кожевеннаую Мастерскую которая получает одну и ту же корову"
 }
 
 u_tanner_fix_descr
 {
-"Tanners will no longer return without a cow when another tanner took their target cow. They will now instead stand around a bit and then get another one."
+"Кожевники больше не вернутся без коровы, когда другой кожевник забрал их целевую корову. Вместо этого они теперь немного встанут и возьмут другую."
 }
 
 o_fix_fletcher_bug
 {
-"Fix fletcher bug"
+"Исправляет баг Мастерской Стрельника "
 }
 
 o_fix_fletcher_bug_descr
 {
-"Fixes the behaviour where the fletcher goes back to the workplace after depositing the bow/crossbow instead of going straight to the stockpile."
+"Исправление поведения, при котором стрельщик возвращается на рабочее место после того как сделал лук/арбалет вместо того, чтобы идти прямо на склад."
 }
 
 ai_fix_crusader_archers_pitch
 {
-"Fix AI crusader archers not lighting pitch"
+"Исправляет ИИ Европейских лучников которые не подпаливали рвы с нефтью"
 }
 
 ai_fix_crusader_archers_pitch_descr
 {
-"Fixes the AI crusader archers not lighting pitch like arabian archers do when enemy units get onto it."
+"Исправляет ИИ Европейских лучников которые не подпаливали рвы с нефтью ,как это делают Арабские лучники"
 }
 
 o_fix_baker_disappear
 {
-"Fix baker disappear bug"
+"Исправить ошибку исчезновения пекаря"
 }
 
 o_fix_baker_disappear_descr
 {
-"Fixes the bug where the bakes would disappear if they found no flour at their destination stockpile pile."
+"Исправляет ошибку, при которой пекари исчезали бы, если бы они не находили муку в куче запасов( на складе) по месту назначения."
 }
 
 o_fix_moat_digging_unit_disappearing
 {
-"Fix moat digging units disappear bug"
+"Исправляет баг когда юниты исчезали после копания рва"
 }
 
 o_fix_moat_digging_unit_disappearing_descr
 {
-"Fixes the bug where moat diggers would disappear randomly while digging. Note that they can still disappear if you order them to move while digging and they happen to stand on an unwalkable tile!"
+"Исправлена ошибка, при которой копатели рва исчезали случайно во время раскопок. Обратите внимание, что они все равно могут исчезнуть, если вы прикажете им двигаться во время раскопок, и они случайно встанут на непешеходную плитку!"
 }
 
 // ======================
