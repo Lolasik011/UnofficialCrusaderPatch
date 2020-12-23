@@ -3,47 +3,47 @@
 // ======================
 ai_housing
 {
-"Customize the AIs decision to build and delete houses"
+"Настройка решения ИИ о строительстве и удалении домов"
 }
 
 ai_buildhousing_descr
 {
-"Customize the AIs decision to build and delete houses"
+"Настройка решения ИИ о строительстве и удалении домов"
 }
 
 build_housing_descr
 {
-"Number of extra available housing before AI stops building houses"
+"Количество дополнительного доступного жилья до того, как ИИ прекратит строительство домов"
 }
 
 delete_housing_descr
 {
-"After the AI has reached this additional amount of available housing after it stopped building houses, it will delete houses"
+"После того, как ИИ достигнет этого дополнительного количества доступного жилья после того, как она прекратит строительство домов, она будет удалять дома"
 }
 
 aiv_prompt
 {
-"Custom modified AIVs detected. Before installing, click 'Yes' to save the currently installed AIVs without overwriting the original backup. Click 'No' to overwrite installed AIVs without backing them up, and 'Cancel' to cancel."
+"Обнаружены модифицированные AIV. Перед установкой нажмите "Да", чтобы сохранить установленные AIV, не перезаписывая оригинальную резервную копию. Нажмите "Нет", чтобы перезаписать установленные AIV без создания резервной копии, и "Отмена", чтобы отменить."
 }
 
 aiv_cli_prompt
 {
-"Custom modified AIVs detected. Enter 'delete' to erase or enter folder name to copy files to."
+"Обнаружены модифицированные AIV. Нажмите 'Удалить' для удаления или введите имя папки для копирования файлов."
 }
 
 install_abort_io
 {
-"Installation aborted. Files with the same name already exist in this folder. Please try again and select a different folder."
+"Установка отменена. В этой папке уже существуют файлы с таким же именем. Попробуйте еще раз и выберите другую папку."
 }
 
 install_abort
 {
-"Installation aborted"
+"Установка отменена"
 }
 
 backup_aiv_select
 {
-"Select Backup AIV folder"
+"Выберите Резервную папку AIV"
 }
 
 o_change_siege_engine_spawn_position_catapult
