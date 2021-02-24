@@ -3,47 +3,47 @@
 // ======================
 o_seed_modification_possibility_title
 {
-"Game Seed"
+"Игровой сид "
 }
 
 o_seed_modification_possibility_only_set
 {
-"Enable game seed"
+"Включить игровой сид"
 }
 
 o_seed_modification_possibility_only_set_descr
 {
-"Setting the Game seed will allow AI-only games to play out the same way if the same map settings are used. For player-AI games, it will ensure the same start conditions in the map (AIV selection for example). To set the game seed, enable this option and create a file called 'live' with a 6 digit number in the game install/gameseeds directory."
+"Установка игрового сида позволит играм только с ИИ играть точно так же, если используются те же настройки карты. Для игр с ИИ, он обеспечит такие же условия запуска на карте (например, выбор AIV). Для установки игрового сида, включите эту опцию и создайте файл под названием "live" с 6-значным номером в каталоге установки игры/игр."
 }
 
 o_seed_modification_possibility
 {
-"Enable & Save game seeds"
+"Включить и сохранить игровой сид"
 }
 
 o_seed_modification_possibility_descr
 {
-"This option will save the seed from games that do not have a live seed set, so you can rename them to 'live' in order to recreate the match afterwards."
+"Эта опция сохранит сид от игр, которые не имеют сида, так что вы можете переименовать их в "live", чтобы потом воссоздать матч."
 }
 
 ai_recruitstate_initialtimer
 {
-"Customise the initial AI's defence recruit time"
+"Настройка первоначального времени вербовки ИИ в защиту"
 }
 
 ai_recruitstate_initialtimervalue_descr
 {
-"Set this value to number of months for which the AI will exclusively recruit defence troops, unless it has already filled up its defence total"
+"Установите это значение на количество месяцев, в течение которых ИИ будет вербовать исключительно войска обороны, если только он уже не заполнил всю оборону."
 }
 
 ai_defense
 {
-"Исправляет подкрепление войск обороны AI"
+"Исправляет подкрепление войск обороны ИИ"
 }
 
 ai_defense_descr
 {
-"Исправлен баг, из-за которого AI не усиливал недостающие войска на стенах и башнях, пока оборонительные патрули все еще были вокруг."
+"Исправлен баг, из-за которого ИИ не усиливал недостающие войска на стенах и башнях, пока оборонительные патрули все еще были вокруг."
 }
 
 ai_housing
